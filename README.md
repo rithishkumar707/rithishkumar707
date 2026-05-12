@@ -13,6 +13,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rithishkumar707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rithishkumar707&icon=0&color=1)]
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
